@@ -91,3 +91,11 @@ validators==0.20.0
 wasabi==0.10.1
 watchdog==2.1.9
 zipp==3.8.1
+
+streamlit>=1.24.0
+pandas>=1.5.0
+scikit-learn>=1.1.0
+joblib
+nltk
+python-docx
+python-magic
